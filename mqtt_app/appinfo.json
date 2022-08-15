@@ -1,0 +1,13 @@
+{
+  "id": "com.mqtt.nodeapp",
+  "version": "1.0.0",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "MQTT",
+  "icon": "icon.png",
+  "requiredPermissions": [
+    "com.mqtt.nodeapp.service.group",
+    "all"
+  ]
+}

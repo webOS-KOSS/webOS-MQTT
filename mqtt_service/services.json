@@ -1,0 +1,9 @@
+{
+  "id": "com.mqtt.nodeapp.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.mqtt.nodeapp.service"
+    }
+  ]
+}
